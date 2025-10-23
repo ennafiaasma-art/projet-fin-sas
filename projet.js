@@ -86,7 +86,7 @@ function trier(){
     }
     
 }
-    console.log(bebliotheque)
+    affiche()
 // Trier les livres par année de publication 
 
 
